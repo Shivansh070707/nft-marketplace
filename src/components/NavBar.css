@@ -1,0 +1,29 @@
+div{
+    background-color: rgb(255, 255, 255);
+ text-align: center;
+    
+}
+ul{
+   
+    display: flex;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 10vh;
+    
+}
+li{
+  
+    margin: 1rem;
+ 
+}
+.container{
+    font-style:inherit;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+Link{
+    background-color: blue;
+}

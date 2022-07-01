@@ -1,0 +1,8 @@
+
+.abc {
+    align-items: center;
+        width: 300px;
+        border: 15px solid rgb(41, 28, 75);
+        padding: 50px;
+        margin: 20px;
+      }
